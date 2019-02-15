@@ -1,4 +1,4 @@
-"entre a number to find the number's qouality odd or event" 
+# entre a number to find the number's qouality odd or event
 a=float(input("Enter the Number: "))
 if a==0:
     print("Number is 0")
